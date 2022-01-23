@@ -1,2 +1,2 @@
-# AtividadesAlgoritmos
-Minhas resoluções das listas de exercícios da disciplina de Introdução à Programação ministrada pelo professor Bruno Pessoa durante o semestre letivo 2021.1
+# ✔️ Resolução das listas
+* Nesse repositório você encontrará todas as minhas respostas em `Python3` das listas.
